@@ -3,7 +3,7 @@
 Projeto feito com o intuito de estudar e praticar conceitos da propriedade CSS Grid
 através do curso CSS Grid: Simplificando layouts da Alura
 
-O que eu aprendi?
+## O que eu aprendi?
 
 - Criar layouts a partir da definição de linhas e colunas
 - Diminuir a complexidade para criar layouts
@@ -14,4 +14,4 @@ O que eu aprendi?
 Depois de aprender os conceitos de Flexbox. Posso unir os dois para ter um melhor aproveitamento.
 O CSS Grid para definir as áreas do layout e Flexbox para posicionar os elementos.
 
-<a href="https://cursos.alura.com.br/user/orobertodefreitas/course/css-grid-layout/certificate">Certiicado de conclusão</a>
+Acesse o projeto <a href="https://css-prid-projeto.vercel.app/">clicando aqui</a>
